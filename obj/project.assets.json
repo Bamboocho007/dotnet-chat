@@ -1444,11 +1444,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/maks/Documents/cSharp/my-chat/cSharp.csproj",
+      "projectUniqueName": "/Users/maks/Documents/git_projects/dotnet-chat/cSharp.csproj",
       "projectName": "cSharp",
-      "projectPath": "/Users/maks/Documents/cSharp/my-chat/cSharp.csproj",
+      "projectPath": "/Users/maks/Documents/git_projects/dotnet-chat/cSharp.csproj",
       "packagesPath": "/Users/maks/.nuget/packages/",
-      "outputPath": "/Users/maks/Documents/cSharp/my-chat/obj/",
+      "outputPath": "/Users/maks/Documents/git_projects/dotnet-chat/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/maks/.nuget/NuGet/NuGet.Config"

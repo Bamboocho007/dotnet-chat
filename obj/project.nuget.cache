@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V1qnyNeSr3MQEZzFFVCVbN5xDpAHo8cukTpSG649iRuBAXhSfXIsuoqWTMaQe4Fj5wPgqZ2x5OikfiG/4NRf1w==",
+  "dgSpecHash": "n2Jp8UFXFjZWfLiJ5cUCST0NRZRsHcZ9rOInfUq5UL9F4TZLv40akXup9lKFiDb0jL71O9MI5+fUJnXSA5i26Q==",
   "success": true,
-  "projectFilePath": "/Users/maks/Documents/cSharp/my-chat/cSharp.csproj",
+  "projectFilePath": "/Users/maks/Documents/git_projects/dotnet-chat/cSharp.csproj",
   "expectedPackageFiles": [
     "/Users/maks/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/maks/.nuget/packages/microsoft.aspnetcore.openapi/7.0.2/microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
